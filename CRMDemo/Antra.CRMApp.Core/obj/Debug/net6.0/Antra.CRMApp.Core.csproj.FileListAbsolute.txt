@@ -1,0 +1,12 @@
+C:\Users\kenai\Desktop\CRMDemo\Antra.CRMApp.Core\bin\Debug\net6.0\Antra.CRMApp.Core.deps.json
+C:\Users\kenai\Desktop\CRMDemo\Antra.CRMApp.Core\bin\Debug\net6.0\Antra.CRMApp.Core.dll
+C:\Users\kenai\Desktop\CRMDemo\Antra.CRMApp.Core\bin\Debug\net6.0\Antra.CRMApp.Core.pdb
+C:\Users\kenai\Desktop\CRMDemo\Antra.CRMApp.Core\obj\Debug\net6.0\Antra.CRMApp.Core.csproj.AssemblyReference.cache
+C:\Users\kenai\Desktop\CRMDemo\Antra.CRMApp.Core\obj\Debug\net6.0\Antra.CRMApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenai\Desktop\CRMDemo\Antra.CRMApp.Core\obj\Debug\net6.0\Antra.CRMApp.Core.AssemblyInfoInputs.cache
+C:\Users\kenai\Desktop\CRMDemo\Antra.CRMApp.Core\obj\Debug\net6.0\Antra.CRMApp.Core.AssemblyInfo.cs
+C:\Users\kenai\Desktop\CRMDemo\Antra.CRMApp.Core\obj\Debug\net6.0\Antra.CRMApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\kenai\Desktop\CRMDemo\Antra.CRMApp.Core\obj\Debug\net6.0\Antra.CRMApp.Core.dll
+C:\Users\kenai\Desktop\CRMDemo\Antra.CRMApp.Core\obj\Debug\net6.0\refint\Antra.CRMApp.Core.dll
+C:\Users\kenai\Desktop\CRMDemo\Antra.CRMApp.Core\obj\Debug\net6.0\Antra.CRMApp.Core.pdb
+C:\Users\kenai\Desktop\CRMDemo\Antra.CRMApp.Core\obj\Debug\net6.0\ref\Antra.CRMApp.Core.dll
